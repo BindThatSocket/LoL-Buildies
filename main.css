@@ -1,0 +1,25 @@
+.title{
+	color:blue;
+	text-align:center;
+	
+.warning{
+	color:red;
+	text-align:center;
+}
+body{
+	background-color:#81d8d0;
+}
+/*
+a:link{
+	color: #FF0000;
+}
+a:visited{
+	color: #00FF00;
+}
+a:hover{
+	color: #FF00FF;
+}
+a:active{
+	color: #0000FF;
+}
+*/
